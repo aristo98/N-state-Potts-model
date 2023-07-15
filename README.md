@@ -1,0 +1,1 @@
+# N-state-Potts-model
